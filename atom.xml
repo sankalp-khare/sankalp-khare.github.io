@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[/var/tech/]]></title>
+  <link href="http://sankalp-khare.github.io/atom.xml" rel="self"/>
+  <link href="http://sankalp-khare.github.io/"/>
+  <updated>2015-06-18T07:22:50+05:30</updated>
+  <id>http://sankalp-khare.github.io/</id>
+  <author>
+    <name><![CDATA[Sankalp Khare]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World!]]></title>
+    <link href="http://sankalp-khare.github.io/blog/2015/06/18/hello-world/"/>
+    <updated>2015-06-18T07:07:47+05:30</updated>
+    <id>http://sankalp-khare.github.io/blog/2015/06/18/hello-world</id>
+    <content type="html"><![CDATA[<p>Welcome to my tech blog. Here I&rsquo;ll be posting notes, tips, opinions and rants on all things technical.</p>
+]]></content>
+  </entry>
+  
+</feed>
